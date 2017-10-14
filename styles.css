@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin');
+
+body {
+    text-align: center;
+    font-family: "Cabin", sans-serif;
+    background-color: #a2c9db;
+    color: #313d42;
+}
+
+img {
+    display: block;
+    margin: 20px auto 5px auto;
+    padding: 2px;
+    border: 1px solid #313d42;
+}
+
+.picture a {
+    text-decoration: none;
+    color: black;
+}
+
+.search-area label {
+    font-weight: bold;
+}
+
+.search-area input {
+    border: 1px solid #313d42;
+    margin-left: 10px;
+}
